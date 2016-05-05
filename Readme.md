@@ -4,7 +4,7 @@
 
 # Slides
 
-[slides.com/splodingsocks](https://slides.com/splodingsocks/elm/live#/)
+[slides.com/splodingsocks/elm](http://slides.com/splodingsocks/elm#/)
 
 # Other Resources
 
